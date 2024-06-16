@@ -199,7 +199,11 @@ margin-bottom: 30px;
   height: auto;
   border-radius: 8px;
 }
-
+.especialidad {
+  display: flex;
+  flex-direction: column;
+  
+}
 .project-section {
   display: flex;
   flex-direction: column;
