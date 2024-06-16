@@ -252,7 +252,27 @@ form button {
   padding: 20px;
   background-color: #f5f5f5;
 }
+.us-contactanos{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items:center;
+  align-content: center;
+  padding: 20px;
+ 
+}
+.us-main {
+  display:flex;
+  flex-direction: column;
+  flex: 1;
 
+}
+.us-section {
+display: flex;
+}
+.us-soluciones{
+
+}
 
 footer {
   background: #333;
@@ -377,8 +397,7 @@ footer {
   }
 
   form {
-
-    margin: 0 auto;
+    margin: 5px auto;
   }
 
 }
